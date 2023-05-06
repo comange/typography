@@ -1,0 +1,55 @@
+!*{font-family:'Jost';
+    font-style: normal;}
+nav{text-transform: uppercase;
+color: #454545;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;}
+#home{color:#F6623E;}
+header p , button{color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */}
+.banner{font-weight: 700;
+    font-size: 54px;
+    line-height: 56px;
+    /* identical to box height, or 104% */
+    color: #000000;}
+h1{font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    /* identical to box height, or 117% */
+    color: #000000;}
+    h2{font-weight: 600;
+        font-size: 24px;
+        line-height: 32px;
+        /* identical to box height, or 133% */
+        color: #000000;}
+        .subtitle{font-weight: 500;
+            font-size: 18px;
+            line-height: 24px;
+            /* identical to box height, or 133% */
+            color: #000000;}
+            .headline{font-weight: 500;
+                font-size: 14px;
+                line-height: 20px;
+                /* identical to box height, or 143% */
+                letter-spacing: 2px;
+                color: #000000;}
+                .body{font-weight: 400;
+                    font-size: 14px;
+                    line-height: 20px;
+                    /* identical to box height, or 143% */
+                    color: #000000;}
+                    .color{font-weight: 400;
+                        font-size: 14px;
+                        line-height: 20px;
+                        /* identical to box height, or 143% */
+                        color: #1A1A1A;
+                        opacity: 0.4;}
+                    .secondary{font-weight: 500;
+                        font-size: 18px;
+                        line-height: 24px;
+                        /* identical to box height, or 133% */
+                        color: #454545;}
