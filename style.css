@@ -1,80 +1,64 @@
 body
-{font-family: 'Roboto';
+{font-family:'Jost';
     font-style: normal;
-    letter-spacing: 0.03em;}
+    color: #000000;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */}
 
-    ul
-    {list-style: none;}
+nav
+{text-transform: uppercase;
+color: #454545;
+font-size: 18px;
+line-height: 24px;}
 
-    a
-    {text-decoration: none;}
+#home
+{color:#F6623E;}
+
+header p , button
+{color: #FFFFFF;
+    font-size: 16px;
+    /* identical to box height, or 125% */}
+
+.banner
+{font-weight: 700;
+    font-size: 54px;
+    line-height: 56px;
+    /* identical to box height, or 104% */}
 
 h1
-{font-weight: 900;
-    font-size: 44px;
-    line-height: 60px;
-    text-align: center;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: #FFFFFF;}
-
-h2
 {font-weight: 700;
     font-size: 36px;
     line-height: 42px;
-    text-align: center;
-    color: #212121;}
-    
-    h5
-    {font-weight: 700;
-        font-size: 14px;
-        line-height: 16px;
-        text-transform: uppercase;
-        color: #212121;}
+    /* identical to box height, or 117% */}
 
-    footer
-    {font-weight: 400;
-        font-size: 14px;
-        line-height: 24px;
-        color: rgba(255, 255, 255, 0.6);}
+    h2
+    {font-weight: 600;
+        font-size: 24px;
+        line-height: 32px;
+        /* identical to box height, or 133% */}
 
-    #adress
-    {font-weight: 400;
-        font-size: 14px;
-        line-height: 24px;
-        color: rgba(255, 255, 255, 1);}
-
-        nav p, footer p
-        {font-family: Oleo Script;
-            font-size: 26px;
-            font-weight: 400;
-            line-height: 36px;
-            text-align: left;}
-
-            .web
-            {font-family: Raleway;
-                font-size: 26px;
-                font-weight: 700;
-                line-height: 31px;
-                text-align: left;
-                color: #2196F3;}
-
-        .explanation
-        {font-weight: 400;
-            font-size: 14px;
-            line-height: 24px;
-            color: #757575;}
-
-        .name
+        .subtitle
         {font-weight: 500;
-            font-size: 16px;
-            line-height: 19px;
-            text-align: center;
-            color: #212121;}
+            font-size: 18px;
+            line-height: 24px;
+            /* identical to box height, or 133% */}
 
-        .profession
-        {font-weight: 400;
-            font-size: 16px;
-            line-height: 19px;
-            text-align: center;
-            color: #757575;}
+            .headline
+            {/* identical to box height, or 143% */
+                letter-spacing: 2px;}
+
+                .body{/* identical to box height, or 143% */}
+
+                    .color
+                    {/* identical to box height, or 143% */
+                        color: #1A1A1A;
+                        opacity: 0.4;}
+
+                    .secondary
+                    {font-weight: 500;
+                        font-size: 18px;
+                        line-height: 24px;
+                        /* identical to box height, or 133% */
+                        color: #454545;}
